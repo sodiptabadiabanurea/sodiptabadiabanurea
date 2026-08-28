@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img" aria-labelledby="title desc">
+<title id="title">vps-dashboard featured project</title><desc id="desc">VPS management and monitoring dashboard built with security in mind.</desc>
+<rect width="900" height="470" rx="18" fill="#071018" stroke="#263642" stroke-width="2"/>
+<rect x="28" y="28" width="844" height="414" rx="12" fill="#0b151e" stroke="#1d2a34"/>
+<rect x="54" y="58" width="72" height="72" rx="12" fill="#10261a" stroke="#4ade80" stroke-width="2"/>
+<path d="M70 76h40v36H70zM70 84h40M78 97l8 7 8-7" fill="none" stroke="#4ade80" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="148" y="83" fill="#4ade80" font-family="monospace" font-size="30" font-weight="700">vps-dashboard</text>
+<text x="148" y="113" fill="#d5dee5" font-family="sans-serif" font-size="19">VPS management &amp; monitoring dashboard</text>
+<line x1="54" y1="160" x2="846" y2="160" stroke="#263642"/>
+<text x="54" y="199" fill="#f2f6f8" font-family="sans-serif" font-size="19">Real-time monitoring, process management, Docker management,</text>
+<text x="54" y="228" fill="#f2f6f8" font-family="sans-serif" font-size="19">file manager, web terminal, security center, logs and alerts.</text>
+<g font-family="monospace" font-size="15" fill="#d9e2e8">
+<rect x="54" y="262" width="106" height="34" rx="17" fill="#16232c"/><text x="69" y="284">JavaScript</text>
+<rect x="170" y="262" width="92" height="34" rx="17" fill="#16232c"/><text x="185" y="284">Node.js</text>
+<rect x="272" y="262" width="79" height="34" rx="17" fill="#16232c"/><text x="289" y="284">Express</text>
+<rect x="361" y="262" width="100" height="34" rx="17" fill="#16232c"/><text x="377" y="284">Socket.IO</text>
+<rect x="471" y="262" width="77" height="34" rx="17" fill="#16232c"/><text x="489" y="284">Docker</text>
+<rect x="558" y="262" width="67" height="34" rx="17" fill="#16232c"/><text x="576" y="284">Linux</text>
+<rect x="635" y="262" width="121" height="34" rx="17" fill="#16232c"/><text x="651" y="284">Web Security</text>
+</g>
+<line x1="54" y1="326" x2="846" y2="326" stroke="#263642"/>
+<text x="54" y="365" fill="#aebbc4" font-family="sans-serif" font-size="17">🔐 Security hardening</text>
+<text x="846" y="365" text-anchor="end" fill="#4ade80" font-family="sans-serif" font-size="17">View repository ↗</text>
+</svg>
