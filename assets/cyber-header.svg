@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Sodipta Badia Banurea cybersecurity profile header">
+<rect width="1200" height="360" rx="18" fill="#050a12"/>
+<rect x="1" y="1" width="1198" height="358" rx="17" fill="none" stroke="#263241"/>
+<g opacity=".16" fill="#4ade80" font-family="monospace" font-size="15">
+<text x="850" y="38">101101 001011 110010 010101</text><text x="870" y="58">010011 101010 001101 111000</text><text x="835" y="78">110001 011010 101001 010011</text><text x="900" y="98">001101 110001 011011 101010</text><text x="820" y="118">101010 001110 110100 010101</text><text x="875" y="138">011001 101001 010110 110010</text><text x="840" y="158">110100 010011 101010 001101</text><text x="905" y="178">001011 110010 010101 101101</text>
+</g>
+<g font-family="monospace">
+<text x="58" y="55" fill="#69e58a" font-size="17">$ whoami</text>
+<path d="M58 67h78" stroke="#69e58a" stroke-width="2"/>
+<text x="58" y="116" fill="#f4f7fb" font-size="38" font-weight="700">Sodipta Badia Banurea</text>
+<text x="58" y="150" fill="#69e58a" font-size="21" font-weight="700">Cybersecurity · Security Engineering · Research</text>
+<text x="58" y="198" fill="#d7dee8" font-size="17">I build security-focused systems, research tooling, and</text>
+<text x="58" y="224" fill="#d7dee8" font-size="17">practical defenses. Passionate about understanding systems</text>
+<text x="58" y="250" fill="#d7dee8" font-size="17">deeply, breaking them responsibly, and building them securely.</text>
+<text x="58" y="307" fill="#d7dee8" font-size="16">⌖ Jakarta, Indonesia</text>
+<text x="248" y="307" fill="#556273" font-size="16">│</text>
+<text x="270" y="307" fill="#d7dee8" font-size="16">✉ Let's connect on LinkedIn ↗</text>
+</g>
+<g transform="translate(805 55)" fill="none" stroke="#69e58a" stroke-width="3" opacity=".85">
+<path d="M38 210h245M68 210c0-45 15-73 37-88 14-10 29-16 43-24 13-8 20-20 25-37 7 16 18 27 34 36 18 10 37 17 52 31 21 20 31 47 31 82"/>
+<path d="M111 122c6-17 17-27 31-35 13-7 26-16 31-30 5 14 17 24 31 31 14 7 25 17 31 34"/>
+<path d="M100 158h168M90 179h188" opacity=".55"/>
+<path d="M173 57c-2-13 1-24 9-34 8 11 10 22 7 34"/>
+</g>
+<text x="1100" y="330" text-anchor="end" fill="#3b4655" font-family="monospace" font-size="11">SECURITY / SYSTEMS / RESEARCH</text>
+</svg>
