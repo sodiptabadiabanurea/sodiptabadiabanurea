@@ -14,11 +14,11 @@
 
 **VPS management & monitoring dashboard** built with security in mind.
 
-Real-time monitoring, process management, Docker management, file manager, web terminal, security center, logs, and alerts.
+Real-time monitoring, process management, Docker management, file manager, web terminal, security controls, logs, and alerts.
 
 `JavaScript` `Node.js` `Express` `Socket.IO` `Docker` `Linux`
 
-🔐 Security hardening · **[View repository ↗](https://github.com/sodiptabadiabanurea/vps-dashboard)**
+🔐 Security hardening · [Repository ↗](https://github.com/sodiptabadiabanurea/vps-dashboard)
 
 </td>
 <td width="50%" valign="top">
@@ -27,11 +27,11 @@ Real-time monitoring, process management, Docker management, file manager, web t
 
 **Research toolkit** for academic research workflows and experimentation.
 
-Automate research workflows, manage papers, run experiments, and build a structured thesis workflow.
+Automate research workflows, manage papers, run experiments, and build a more structured thesis workflow.
 
 `Python` `Research Automation` `LLM/AI` `Data Processing` `CLI`
 
-🧪 Research tooling · **[View repository ↗](https://github.com/sodiptabadiabanurea/thesiskit)**
+🧪 Research tooling · [Repository ↗](https://github.com/sodiptabadiabanurea/thesiskit)
 
 </td>
 </tr>
@@ -58,20 +58,13 @@ Automate research workflows, manage papers, run experiments, and build a structu
 
 ## 💻 Tech Stack
 
-**Languages**  
-`Python` · `Go` · `JavaScript`
-
-**Systems**  
-`Linux` · `Docker` · `Git`
-
-**Web**  
-`Node.js` · `Express` · `Socket.IO`
-
-**Security**  
-`Recon` · `Pentest` · `Hardening`
-
-**Tools**  
-`CLI` · `Bash` · `Wireshark` · `Nmap`
+| Area | Stack |
+| --- | --- |
+| Languages | `Python` · `Go` · `JavaScript` |
+| Systems | `Linux` · `Docker` · `Git` |
+| Web | `Node.js` · `Express` · `Socket.IO` |
+| Security | `Recon` · `Pentest` · `Hardening` |
+| Tools | `CLI` · `Bash` · `Wireshark` · `Nmap` |
 
 </td>
 <td width="33%" valign="top">
