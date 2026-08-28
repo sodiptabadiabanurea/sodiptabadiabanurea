@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cyber-header.svg" alt="Sodipta Badia Banurea — Cybersecurity · Security Engineering · Research" width="100%" />
+  <img src="./assets/terminal-header.svg" alt="Sodipta Badia Banurea — Cybersecurity · Security Engineering · Research" width="100%" />
 </div>
 
 <br>
