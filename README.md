@@ -1,32 +1,49 @@
-# 👋 Hi, I'm Sodipta Badia Banurea
+<div align="center">
+  <img src="./assets/cyber-header.svg" alt="Sodipta Badia Banurea — Cybersecurity · Security Engineering · Research" width="100%" />
+</div>
 
-### Cybersecurity · Security Engineering · Research
+<br>
 
-I build security-focused systems, research tooling, and practical defenses.
+## 🚀 Featured Projects
 
-My interests sit at the intersection of **cybersecurity, network infrastructure, automation, and research**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-📍 Jakarta, Indonesia · 🔗 [LinkedIn](https://www.linkedin.com/in/sodiptabadiabanurea/)
+### 🖥️ [`vps-dashboard`](https://github.com/sodiptabadiabanurea/vps-dashboard)
 
----
+**VPS management & monitoring dashboard** built with security in mind.
 
-## 🔐 Featured Work
+Real-time monitoring, process management, Docker management, file manager, web terminal, security center, logs, alerts, and more.
 
-### 🖥️ [vps-dashboard](https://github.com/sodiptabadiabanurea/vps-dashboard)
+`JavaScript` `Node.js` `Express` `Socket.IO` `Docker` `Linux` `Web Security`
 
-A VPS management and monitoring dashboard focused on secure infrastructure operations.
+**[View Repository ↗](https://github.com/sodiptabadiabanurea/vps-dashboard)**
 
-**Focus:** `Security Engineering` · `Linux` · `Docker` · `Networking` · `Web Security`
+</td>
+<td width="50%" valign="top">
 
-### 📚 [thesiskit](https://github.com/sodiptabadiabanurea/thesiskit)
+### 📚 [`thesiskit`](https://github.com/sodiptabadiabanurea/thesiskit)
 
-A research toolkit designed to streamline academic research workflows and experimentation.
+**Research toolkit** for streamlining academic research workflows and experimentation.
 
-**Focus:** `Python` · `Research Automation` · `AI/LLM` · `Data Processing` · `CLI`
+Automate research workflows, manage papers, run experiments, and build a more structured thesis workflow.
 
----
+`Python` `Research Automation` `LLM/AI` `Data Processing` `CLI` `Academic Tools`
 
-## 🛡️ Areas of Interest
+**[View Repository ↗](https://github.com/sodiptabadiabanurea/thesiskit)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+## 🎯 Focus Areas
 
 - Web & Application Security
 - Network Security
@@ -36,36 +53,71 @@ A research toolkit designed to streamline academic research workflows and experi
 - Cloud Security
 - CTF & Security Research
 
+</td>
+<td width="34%" valign="top">
+
+## 💻 Tech Stack
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Python · Go · JavaScript |
+| **Systems** | Linux · Docker · Git |
+| **Web** | Node.js · Express · Socket.IO |
+| **Security** | Recon · Pentest · Hardening |
+| **Tools** | CLI · Bash · Wireshark · Nmap |
+
+</td>
+<td width="33%" valign="top" align="left">
+
+## ⚡ Currently Exploring
+
+Cybersecurity research, secure system design, vulnerability analysis, and practical security engineering.
+
+<br>
+
+<img src="./assets/exploring.svg" alt="Minimal mountain illustration" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ---
 
-## ⚙️ Technologies
+<table>
+<tr>
+<td width="34%" valign="middle">
 
-**Languages**  
-`Python` · `Go` · `JavaScript`
+### 🐙 Open source. Open mind.
 
-**Systems & Infrastructure**  
-`Linux` · `Docker` · `Git` · `Networking`
+Always learning. Always building.
 
-**Security**  
-`Web Security` · `Reconnaissance` · `Vulnerability Research` · `Security Testing`
+</td>
+<td width="33%" valign="middle">
 
----
+### 🤝 Let's connect!
 
-## 🔬 Currently Exploring
+[LinkedIn](https://www.linkedin.com/in/sodiptabadiabanurea/)
 
-Cybersecurity research, secure system design, vulnerability analysis,
-and practical security engineering.
+📍 **Jakarta, Indonesia**
 
----
+</td>
+<td width="33%" valign="middle">
 
-## 🤝 Let's Connect
+```text
+$ mission
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sodipta%20Badia%20Banurea-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sodiptabadiabanurea/)
+Build it.
+Break it.
+Understand it.
+Secure it.
+```
 
----
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <sub>Open source. Open mind. Always learning.</sub>
-  <br><br>
-  <strong>Build it. Break it. Understand it. Secure it.</strong>
+  <sub>Cybersecurity · Security Engineering · Research</sub>
 </p>
