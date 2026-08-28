@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="150" viewBox="0 0 360 150" role="img" aria-label="Minimal mountain line illustration">
+<rect width="360" height="150" fill="#050a12"/>
+<g fill="none" stroke="#f4b942" stroke-width="2" opacity=".9">
+<path d="M12 132l76-54 32 23 48-59 42 45 32-24 70 69" stroke-dasharray="6 5"/>
+<path d="M142 83l26-20 18 19"/>
+<path d="M160 43v-24M160 19h22l-8 7 8 7h-22"/>
+</g>
+<g fill="#f4b942"><circle cx="78" cy="73" r="2"/><circle cx="285" cy="82" r="2"/><circle cx="305" cy="91" r="2"/></g>
+<g fill="#f4b942" font-family="monospace" font-size="10"><text x="22" y="28">~ ~ ~</text><text x="298" y="45">~ ~</text></g>
+</svg>
